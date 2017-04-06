@@ -20,7 +20,7 @@ nav {
 nav img {
   display: block;
   width: 180px;
-  padding: 0px auto;
+  padding: 0 auto;
 }
 
 nav span {
@@ -28,7 +28,7 @@ nav span {
   font-size: 16px;
   font-weight: 100;
   letter-spacing: 2px;
-  margin: 10px 0px;
+  margin: 10px 0;
 }
 
 nav a {
@@ -62,14 +62,14 @@ nav a {
   line-height: 40px;
   width: 68%;
   padding: 20px;
-  margin: 0px auto;
+  margin: 0 auto;
 }
 
 /* Content Body */
 
 .content .body {
   width: 90%;
-  margin: 0px auto;
+  margin: 0 auto;
 }
 
 .body p {
